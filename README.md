@@ -161,7 +161,7 @@ Welcome to join our community on
 
 ```bash
 # Pull the source code from GitHub
-git clone -b main https://github.com/agentscope-ai/agentscope.git
+git clone -b main https://github.com/chaotingge/agentscope.git
 
 # Install the package in editable mode
 cd agentscope
@@ -174,7 +174,7 @@ pip install -e .
 
 ```bash
 # Clone the repository
-git clone -b main https://github.com/agentscope-ai/agentscope.git
+git clone -b main https://github.com/chaotingge/agentscope.git
 cd agentscope
 
 # Install with uv
